@@ -6,7 +6,7 @@ Este projeto foi inicializado com [Create React App](https://github.com/facebook
 Amaro Cristóvão\
 Lyan alexandre\
 Thales licínio\
-Thomas messeder\
+Thomas messeder
 
 ## Scripts disponíveis
 
