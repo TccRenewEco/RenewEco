@@ -3,10 +3,10 @@
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
 ### O projeto foi desenvolvido por
-Amaro Cristóvão
-Lyan alexandre
-Thales licínio
-Thomas messeder
+Amaro Cristóvão\
+Lyan alexandre\
+Thales licínio\
+Thomas messeder\
 
 ## Scripts disponíveis
 
